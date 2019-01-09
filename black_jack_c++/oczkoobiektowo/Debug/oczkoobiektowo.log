@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\maciej\moje dokumenty\aplikacje o prace\saule\portfolio\c s3\oczkoobiektowo\oczkoobiektowo\source.cpp(347): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+d:\maciej\moje dokumenty\aplikacje o prace\saule\portfolio\c s3\oczkoobiektowo\oczkoobiektowo\source.cpp(450): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  oczkoobiektowo.vcxproj -> D:\Maciej\moje dokumenty\aplikacje o prace\saule\portfolio\c s3\oczkoobiektowo\Debug\oczkoobiektowo.exe
+  oczkoobiektowo.vcxproj -> D:\Maciej\moje dokumenty\aplikacje o prace\saule\portfolio\c s3\oczkoobiektowo\Debug\oczkoobiektowo.pdb (Full PDB)
